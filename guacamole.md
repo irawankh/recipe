@@ -6,3 +6,4 @@
 ##Instructions
 *I add 
 * peel the avocado
+* squeeze lime juice
