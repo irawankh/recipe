@@ -4,7 +4,7 @@ improve
 ##Ingredients
 *lemon
 *vineger
-*lime
+*lime or lemon
 
 ##Instructions
 *I add 
