@@ -1,9 +1,9 @@
-#Guacamole
+# Guacamole
 
-##Ingredients
+## Ingredients
 
-*avocado
-*lime/lemon
+* avocado
+* lime/lemon
 
 ##Instructions
 
