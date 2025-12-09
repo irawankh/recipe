@@ -1,12 +1,14 @@
-improve 
 #Guacamole
 
 ##Ingredients
 *lemon
-*vineger
-*lime
+*vinegar
+*lime/lemon
 
 ##Instructions
-*I add 
+
 * peel the avocado
 * squeeze lime juice
+* mash the avocado
+* mix together
+
